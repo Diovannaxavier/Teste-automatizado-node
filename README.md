@@ -18,4 +18,4 @@ Chai = [http://chaijs.com/]
 
 Para realizar o teste, inicia o termina na página do projeto e executa `mocha`
 
-Link do arquivo do teste automatizado https://github.com/Diovannaxavier/Teste-automatizado-node/tree/main/test
+Link do arquivo do teste automatizado [https://github.com/Diovannaxavier/Teste-automatizado-node/tree/main/test](https://github.com/Diovannaxavier/Teste-automatizado-node/blob/main/test/recorde.js)
