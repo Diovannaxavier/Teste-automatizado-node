@@ -1,0 +1,30 @@
+{
+  "name": "teste-automatizado-node",
+  "version": "1.0.0",
+  "description": "Validação de teste unitário",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diovannaxavier/Teste-automatizado-node.git"
+  },
+  "author": "Diovanna Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diovannaxavier/Teste-automatizado-node/issues"
+  },
+  "homepage": "https://github.com/Diovannaxavier/Teste-automatizado-node#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "crypto": "^1.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0",
+    "morgan": "^1.10.0"
+  }
+}
