@@ -17,3 +17,5 @@ Mocha = [https://mochajs.org/]
 Chai = [http://chaijs.com/]
 
 Para realizar o teste, inicia o termina na página do projeto e executa `mocha`
+
+Link do arquivo do teste automatizado https://github.com/Diovannaxavier/Teste-automatizado-node/tree/main/test
